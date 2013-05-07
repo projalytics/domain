@@ -1,0 +1,16 @@
+gem
+domain logic
+
+SOLID
+TDD
+CQRS
+Event sourcing
+attack friction
+split things up by features
+
+-----------------
+Tech
+
+aggregates:
+    workflow
+
