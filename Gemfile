@@ -1,3 +1,7 @@
 source 'http://rubygems.org'
 
-gem 'rspec'
+gem 'event_source'
+
+group :test do
+    gem 'rspec'
+end
